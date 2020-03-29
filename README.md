@@ -23,3 +23,16 @@
 
 ### Data Anggota
 ![Alt Text](https://github.com/inamyrpl28/Modul-UKL-0-2/blob/master/latihan%20ukl/jumlah%20anggota.PNG)
+
+### Tambah Anggota
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20anggota.PNG)
+
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20anggota%201.PNG)
+
+### Tambah Buku 
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20buku.PNG)
+
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20buku%201.PNG)
+
+### Tambah Peminjaman 
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20peminjam.PNG)
