@@ -11,12 +11,10 @@
 ![Alt Text](https://github.com/inamyrpl28/Modul-UKL-0-2/blob/master/latihan%20ukl/tabel%20level.PNG)
 
 ![Alt Text](https://github.com/inamyrpl28/Modul-UKL-0-2/blob/master/latihan%20ukl/tabel%20petugas.PNG)
+# UKL 1-6
 
-# UKL 1
 ### Tampilan Dashboard
 ![Alt Text](https://github.com/inamyrpl28/Modul-UKL-0-2/blob/master/latihan%20ukl/siperpus%20dashboard.PNG)
-
-# UKL 2
 
 ### Data Buku
 ![Alt Text](https://github.com/inamyrpl28/Modul-UKL-0-2/blob/master/latihan%20ukl/daftar%20buku.PNG)
@@ -34,5 +32,8 @@
 
 ![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20buku%201.PNG)
 
-### Tambah Peminjaman 
-![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/tambah%20peminjam.PNG)
+### Data Peminjaman 
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/data%20pinjaman.PNG)
+
+### Form Peminjaman
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/form%20peminjaman.PNG)
