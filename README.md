@@ -40,3 +40,6 @@
 
 ### Form Kembali 
 ![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/form%20kembali.PNG)
+
+### Form Edit 
+![Alt Text](https://github.com/inamyrpl28/Modul-Web-Native-UKL/blob/master/latihan%20ukl/form%20edit.PNG)
